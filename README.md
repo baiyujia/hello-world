@@ -6,3 +6,7 @@ test2
 modify by other
 test4
 test3
+
+pick1
+
+pick2
