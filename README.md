@@ -8,3 +8,5 @@ test4
 test3
 
 pick1
+
+master modify
